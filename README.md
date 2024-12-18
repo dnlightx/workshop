@@ -1,4 +1,4 @@
-# TaskRewards - Gamified Productivity App
+# WorkShop
 
 ## Features
 
