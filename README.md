@@ -19,6 +19,5 @@
 - Authentication: JWT
 - State Management: Redux
 - UI Framework: Material-UI
-- Charts: Chart.js
 
 Created by Promise Omisakin 🚀  
