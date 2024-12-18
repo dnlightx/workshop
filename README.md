@@ -1,7 +1,5 @@
 # TaskRewards - Gamified Productivity App
 
-A modern productivity application that gamifies task completion and habit building by rewarding users with coins that can be spent on pleasure activities.
-
 ## Features
 
 - User Authentication
